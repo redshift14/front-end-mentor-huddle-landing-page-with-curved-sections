@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 :root {
     --pink: hsl(322, 100%, 66%);
     --light-pink: hsl(321, 100%, 78%);
